@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GudangKu</string>
+    <string name="welcome">Welcome</string>
+    <string name="subWelcome">di Gudang Ku</string>
+    <string name="textCard">Makanan-01</string>
+    <string name="desc_text">Mie Goreng Original</string>
+    <string name="title">Title</string>
+    <string name="add_category">Add Category</string>
+    <string name="save">Save</string>
+    <string name="edit_category">Edit Category</string>
+    <string name="ask_del">Are you sure delete thi?</string>
+    <string name="delete_category">Delete Category</string>
+    <string name="idWarehouse">id</string>
+    <string name="nameItem">Item Name</string>
+    <string name="codeWarehouse">Code Warehouse</string>
+    <string name="codeItem">Code Item</string>
+</resources>
